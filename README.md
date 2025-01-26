@@ -15,7 +15,7 @@ During peak flu seasons, hospitals struggle to meet the increased demand for car
 This analysis was conducted using a structured approach:
 
 ### Data Collection
-1. **Data Sources**:
+ **Data Sources**:
    - CDC Influenza Deaths by State
    - U.S. Census Bureau Population Data
  
